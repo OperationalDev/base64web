@@ -1,0 +1,30 @@
+h1 {
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    background-color: #282c34;
+    color: #abb2bf;
+  }
+  
+  input[type="text"], textarea {
+    background-color: #3e4451;
+    color: #abb2bf;
+    width: 48%;
+    height: 80vh;
+  }
+  
+  button {
+    background-color: #5c6370;
+    color: #abb2bf;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #abb2bf;
+    color: #282c34;
+  }
+  
